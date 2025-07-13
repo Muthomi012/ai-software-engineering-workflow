@@ -1,0 +1,5 @@
+age,length_of_stay,diagnosis_code,readmitted
+65,3,DX1,1
+42,5,DX2,0
+78,2,DX1,1
+50,4,DX3,0

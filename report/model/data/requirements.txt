@@ -1,0 +1,11 @@
+
+---
+
+## ✅ 2. `requirements.txt`
+
+Paste this (to install necessary libraries):
+
+```txt
+pandas
+scikit-learn
+matplotlib
