@@ -18,3 +18,4 @@ df[['age', 'length_of_stay']] = scaler.fit_transform(df[['age', 'length_of_stay'
 
 df.to_csv("data/processed_data.csv", index=False)
 print("Data preprocessing complete.")
+ss
